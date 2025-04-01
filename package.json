@@ -8,7 +8,6 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "favs": "npx json-server --watch favs.json --port 5000",
     "users": "npx json-server --watch users.json --port 3000"
   },
   "dependencies": {

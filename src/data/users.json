@@ -2,10 +2,10 @@
   "users": [
     {
       "id": "1589",
-      "firstName": "‪Esraa",
-      "lastName": "khalifa‬‏",
-      "email": "esraa@yahoo.com",
-      "password": "Hamada76",
+      "firstName": "‪Test",
+      "lastName": "User‬‏",
+      "email": "user@yahoo.com",
+      "password": "PassTest76",
       "dob": "1999-02-07",
       "preferences": [
         "Comedy",
@@ -41,113 +41,6 @@
           "video": false,
           "vote_average": 7.068,
           "vote_count": 1616
-        }
-      ]
-    },
-    {
-      "id": "700f",
-      "firstName": "e",
-      "lastName": "k",
-      "email": "e@yahoo.com",
-      "password": "hamza",
-      "dob": "2000-02-12",
-      "preferences": [
-        "Comedy",
-        "Thriller",
-        "Romance"
-      ]
-    },
-    {
-      "id": "c407",
-      "firstName": "‪Esraa",
-      "lastName": "khalifa‬‏",
-      "email": "esraa7@yahoo.com",
-      "password": "hamza",
-      "dob": "",
-      "preferences": []
-    },
-    {
-      "id": "ead1",
-      "firstName": "‪Esraa",
-      "lastName": "khalifa‬‏",
-      "email": "esraa0@yahoo.com",
-      "password": "h",
-      "dob": "",
-      "preferences": []
-    },
-    {
-      "id": "c736",
-      "firstName": "e",
-      "lastName": "k",
-      "email": "e@gmail.com",
-      "password": "hamza",
-      "dob": "2000-02-12",
-      "preferences": [
-        "Comedy",
-        "Drama",
-        "Fantasy"
-      ],
-      "favorites": [
-        {
-          "adult": false,
-          "backdrop_path": "/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
-          "genre_ids": [
-            28,
-            878,
-            35,
-            10751
-          ],
-          "id": 939243,
-          "original_language": "en",
-          "original_title": "Sonic the Hedgehog 3",
-          "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
-          "popularity": 78.835,
-          "poster_path": "/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
-          "release_date": "2024-12-19",
-          "title": "Sonic the Hedgehog 3",
-          "video": false,
-          "vote_average": 7.7,
-          "vote_count": 2126
-        },
-        {
-          "adult": false,
-          "backdrop_path": "/ek8CJRZchT9YIB4p7ktEjPXuCIi.jpg",
-          "genre_ids": [
-            28,
-            53,
-            80
-          ],
-          "id": 1126166,
-          "original_language": "en",
-          "original_title": "Flight Risk",
-          "overview": "A U.S. Marshal escorts a government witness to trial after he's accused of getting involved with a mob boss, only to discover that the pilot who is transporting them is also a hitman sent to assassinate the informant. After they subdue him, they're forced to fly together after discovering that there are others attempting to eliminate them.",
-          "popularity": 119.998,
-          "poster_path": "/q0bCG4NX32iIEsRFZqRtuvzNCyZ.jpg",
-          "release_date": "2025-01-22",
-          "title": "Flight Risk",
-          "video": false,
-          "vote_average": 6.1,
-          "vote_count": 436
-        },
-        {
-          "adult": false,
-          "backdrop_path": "/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
-          "genre_ids": [
-            10749,
-            878,
-            53
-          ],
-          "id": 950396,
-          "original_language": "en",
-          "original_title": "The Gorge",
-          "overview": "Two highly trained operatives grow close from a distance after being sent to guard opposite sides of a mysterious gorge. When an evil below emerges, they must work together to survive what lies within.",
-          "popularity": 126.244,
-          "poster_path": "/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
-          "release_date": "2025-02-13",
-          "title": "The Gorge",
-          "video": false,
-          "vote_average": 7.8,
-          "vote_count": 1831
         }
       ]
     }
